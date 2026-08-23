@@ -1,0 +1,12 @@
+earthengine-api
+geemap
+pysheds>=0.5,<0.6
+osmnx
+geopandas
+shapely
+rasterio
+numpy
+scipy
+pandas
+matplotlib
+requests

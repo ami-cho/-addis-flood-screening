@@ -1,0 +1,20 @@
+# Generated raster/data outputs (re-downloadable from GEE/OSM, not source data)
+*.tif
+*.tiff
+
+# Generated result tables (reproducible from the scripts)
+outputs/*.csv
+outputs/*.png
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Earth Engine / geemap credentials -- NEVER commit these
+.config/earthengine/
+credentials.json
+*service-account*.json
+
+# OS cruft
+.DS_Store

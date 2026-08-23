@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code or methodology, please cite the manuscript below."
+title: "Terrain-Driven Flow Concentration and Independently Reported Urban Flooding in Addis Ababa, Ethiopia: A Free-Data Screening Evaluation"
+type: software
+authors:
+  - family-names: "Aemero"
+    given-names: "Amhasilasie Mulugeta"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # optional, uncomment if you have one
+date-released: "2026-08"
+repository-code: "https://github.com/ami-cho/-addis-flood-screening"
+keywords:
+  - flood susceptibility screening
+  - digital elevation model
+  - FABDEM
+  - flow accumulation
+  - Curve Number
+  - pluvial flooding
+  - data-scarce cities
+  - Addis Ababa
+  - Ethiopia
+license: MIT
