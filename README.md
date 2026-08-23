@@ -83,7 +83,6 @@ Amhasilasie Mulugeta Aemero
 ## Citation
 
 See `CITATION.cff` (already points to https://github.com/ami-cho/-addis-flood-screening).
-Add an ORCID if you have one.
 
 ## License
 
